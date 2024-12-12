@@ -1,0 +1,877 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7278679050579515390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 265.38464
+    y: 124.99994
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 256
+    y: 128
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 856.2422
+    y: 493.5572
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 936.2422
+    y: 413.5572
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 872.2422
+    y: 429.5572
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: c5167eb210c75634199e83d83c0da956, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: c90e0612fd9c33243b8fb70d004b6c77, type: 3}
+  modelGroups:
+  - name: JRrvOJ
+    meshes:
+    - {fileID: 7439086323100211070, guid: 591c7c9307264694aaed03619a92f4f0, type: 3}
+--- !u!114 &-6981551068803953614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 252.43903
+    y: 0
+    width: 126.78046
+    height: 130.43903
+  guiRect:
+    serializedVersion: 2
+    x: 256
+    y: 0
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 533.9214
+    y: 235.844
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 613.9214
+    y: 155.844
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 549.9214
+    y: 171.844
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: 28d9e542114f5134dbe94328be4f195a, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 5e59a83d10037854482e76afe56452fe, type: 3}
+  modelGroups:
+  - name: LCYcyp
+    meshes:
+    - {fileID: -3007701126867045657, guid: b8e7a52ca558011498ecacb86ad09867, type: 3}
+--- !u!114 &-5558494112194907710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 377.5003
+    y: 384
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 384
+    y: 384
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1318.9111
+    y: 1016.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1398.9111
+    y: 936.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1334.9111
+    y: 952.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: f59ec7f96c3850a4c8c36cd34ba96dc1, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: ad1e186fb2ae2f74496f517ae02c7183, type: 3}
+  modelGroups:
+  - name: EqDKnD
+    meshes:
+    - {fileID: 8173462715650634264, guid: 0bd5feae57c7f7c4585bc6b2134e7cc4, type: 3}
+--- !u!114 &-3990649247830159076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 1
+  rect:
+    serializedVersion: 2
+    x: 142.50012
+    y: 253.46173
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 128
+    y: 256
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 827.05225
+    y: 736.52985
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 907.05225
+    y: 656.52985
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 843.05225
+    y: 672.52985
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: b40fbc1fcdfe5764c836bced3f8e5497, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: b72048ae2747e7d44af0298e450648e4, type: 3}
+  modelGroups:
+  - name: aUzujv
+    meshes:
+    - {fileID: 5919706404330691390, guid: 7165e0bef443d3544b2ff636b34fb57c, type: 3}
+--- !u!114 &-3831745772707897154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 128
+    height: 143.19232
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 401.22873
+    y: 342.38205
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 481.22873
+    y: 262.38205
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 417.22873
+    y: 278.38205
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: cd02215919e40654d9c43174a53d09b0, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: db0bcc523a10eda4f8bc22eb2bc89831, type: 3}
+  modelGroups:
+  - name: DqzkHm
+    meshes:
+    - {fileID: 7439086323100211070, guid: 591c7c9307264694aaed03619a92f4f0, type: 3}
+--- !u!114 &-3104026937765086522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: ev5tx4
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 370.07593
+    y: 7.59494
+    width: 141.92407
+    height: 131.79749
+  guiRect:
+    serializedVersion: 2
+    x: 384
+    y: 0
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1318.9111
+    y: 632.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1398.9111
+    y: 552.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1334.9111
+    y: 568.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: New TextureGroup
+    texture: {fileID: 2800000, guid: 3a2eaf2636cc13b439a934d5126ec835, type: 3}
+  - name: New TextureGroup
+    texture: {fileID: 0}
+  modelGroups: []
+--- !u!114 &-2913832561799954951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 120.00012
+    y: 127.50012
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 128
+    y: 128
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 529.22876
+    y: 470.38205
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 609.22876
+    y: 390.38205
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 545.22876
+    y: 406.38205
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: ae8b5afdcbd7846498c975167f74dd56, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: d708ac805ba1f5844a27c49b3d479262, type: 3}
+  modelGroups:
+  - name: jcETaq
+    meshes:
+    - {fileID: 2710422187249256883, guid: 8a8321d67457d464b8f3cad7190219c3, type: 3}
+--- !u!114 &-714433843824437282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 252.50018
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 256
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 934.9111
+    y: 888.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1014.9111
+    y: 808.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 950.9111
+    y: 824.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: c77fdccfd0e10404197f717665f97148, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 6edf495e142e40441ba33efc9da7eb16, type: 3}
+  modelGroups:
+  - name: oufeiQ
+    meshes:
+    - {fileID: 3378619919449606002, guid: 2be17654461a7ca479cccd481df88524, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 892d1a7aeb4cc284dbf62e69e125db52, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  textureQuads:
+  - {fileID: -6981551068803953614}
+  - {fileID: -3104026937765086522}
+  - {fileID: 1021921422527420355}
+  - {fileID: -3831745772707897154}
+  - {fileID: -7278679050579515390}
+  - {fileID: 979645430182834282}
+  - {fileID: 7514084490977067686}
+  - {fileID: 6324842581580611388}
+  - {fileID: 3055608794256030961}
+  - {fileID: -714433843824437282}
+  - {fileID: -3990649247830159076}
+  - {fileID: 3496194060489604105}
+  - {fileID: 1821762249427915346}
+  - {fileID: 1581649771211654805}
+  - {fileID: -5558494112194907710}
+  - {fileID: -2913832561799954951}
+  selectedTextureQuad: {fileID: -3990649247830159076}
+  showTextures: 1
+  exportSettings: {fileID: 11400000, guid: cfe27560f02b96b47a941cd319eab9c3, type: 2}
+  textureAtlasSize: {x: 512, y: 512}
+  textureGroupRegistration:
+  - name: BaseColor
+  - name: Metalic
+--- !u!114 &979645430182834282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 384
+    y: 121.15381
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 384
+    y: 128
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1318.9111
+    y: 760.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1398.9111
+    y: 680.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1334.9111
+    y: 696.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: d2cdf21261d95f44493d8c9a4320145b, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 026d5a6e49b452a498abd758f8a8f6f8, type: 3}
+  modelGroups:
+  - name: FuZoVR
+    meshes:
+    - {fileID: -982267588021288810, guid: 071279071345f4046954423d460daa3a, type: 3}
+--- !u!114 &1021921422527420355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 115.85367
+    y: 3.6585388
+    width: 140.19513
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 128
+    y: 0
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 529.22876
+    y: 342.38205
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 609.22876
+    y: 262.38205
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 545.22876
+    y: 278.38205
+    width: 32
+    height: 32
+  textureGroups:
+  - name: New TextureGroup
+    texture: {fileID: 2800000, guid: a2177992c7713b846b52dc33767acb7d, type: 3}
+  - name: New TextureGroup
+    texture: {fileID: 0}
+  modelGroups: []
+--- !u!114 &1581649771211654805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 257.50012
+    y: 384
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 256
+    y: 384
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 684.19904
+    y: 607.10986
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 764.19904
+    y: 527.10986
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 700.19904
+    y: 543.10986
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: 22e9ea4b8bb2b7a46a1467e63ce9e128, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: aaec5658e837c3243b2dddbeaf0e324c, type: 3}
+  modelGroups:
+  - name: zAEzZk
+    meshes:
+    - {fileID: -982267588021288810, guid: 071279071345f4046954423d460daa3a, type: 3}
+--- !u!114 &1821762249427915346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 130.00006
+    y: 384
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 128
+    y: 384
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 556.19904
+    y: 607.10986
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 636.19904
+    y: 527.10986
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 572.19904
+    y: 543.10986
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: 335cbf52c2516bd40b1d26f386de8fc7, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 201f62b29b59119439d1c07bba0467ef, type: 3}
+  modelGroups:
+  - name: pgVyTU
+    meshes:
+    - {fileID: 2057124336756692202, guid: 648451a4aa6d5b84a824831490c2cfb4, type: 3}
+--- !u!114 &3055608794256030961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 15.000061
+    y: 130.00009
+    width: 128
+    height: 120.5
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 128
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 401.22873
+    y: 470.38205
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 481.22873
+    y: 390.38205
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 417.22873
+    y: 406.38205
+    width: 32
+    height: 32
+  textureGroups:
+  - name: New TextureGroup
+    texture: {fileID: 2800000, guid: 273bfda24161a04469bee817fdd6fc52, type: 3}
+  - name: New TextureGroup
+    texture: {fileID: 0}
+  modelGroups: []
+--- !u!114 &3496194060489604105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 372.5002
+    width: 128
+    height: 125.5
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 384
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 428.19904
+    y: 607.10986
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 508.19904
+    y: 527.10986
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 444.19904
+    y: 543.10986
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: 7f4783ac84c090547aa84ab027757623, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 2d12d1c3407d04846809a9d1f3dc616b, type: 3}
+  modelGroups:
+  - name: AyCoXi
+    meshes:
+    - {fileID: 7324449043932243782, guid: 38a1409ec4d11894d841c231e5da2735, type: 3}
+--- !u!114 &6324842581580611388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 255.00018
+    y: 247.50018
+    width: 128
+    height: 128
+  guiRect:
+    serializedVersion: 2
+    x: 256
+    y: 256
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1190.9111
+    y: 888.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1270.9111
+    y: 808.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1206.9111
+    y: 824.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: b531c2a6188cde44aa8101d2fd8ba137, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: cc8b29b7ea34f1d4dbae11b882f8111d, type: 3}
+  modelGroups:
+  - name: TnSXnm
+    meshes:
+    - {fileID: 2257700497363934294, guid: 821734cd5dcbdcc469f60387729e811d, type: 3}
+--- !u!114 &7514084490977067686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: new Quad
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 376.5
+    y: 247.50018
+    width: 128
+    height: 128.90909
+  guiRect:
+    serializedVersion: 2
+    x: 384
+    y: 256
+    width: 128
+    height: 128
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1318.9111
+    y: 888.2436
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1398.9111
+    y: 808.2436
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1334.9111
+    y: 824.2436
+    width: 32
+    height: 32
+  textureGroups:
+  - name: BaseColor
+    texture: {fileID: 2800000, guid: 3f083a983b5fc1940aaeb18127d88145, type: 3}
+  - name: Metalic
+    texture: {fileID: 2800000, guid: 5f7a71f0d0196ef4289e02053d5e3854, type: 3}
+  modelGroups:
+  - name: ZHsoPR
+    meshes:
+    - {fileID: -3007701126867045657, guid: b8e7a52ca558011498ecacb86ad09867, type: 3}

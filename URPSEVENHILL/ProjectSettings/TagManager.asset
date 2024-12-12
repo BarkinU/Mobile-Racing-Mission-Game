@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - body
+  - CustomerDestination
+  - IM2
+  - aii
+  - ambulanceMissionFollower
+  - CustomerFollower
+  - LosBiza
+  - SevenHill
+  - busMissionSpawn
+  - path
+  - PoliceMission
+  - busMission
+  - Customer
+  - steeringWheel
+  - arrows
+  - thiefPath
+  - thiefSpawn
+  - crimeLocation
+  - thiefFollower
+  - catPoint
+  - mCamera
+  - AiThief
+  - CustomerDestinationFollower
+  - fireSpawn
+  - firePoint
+  - patientSpawn
+  - startPosition
+  - busMissionFollower
+  - ambulanceMission
+  - CustomerPoint
+  - CustomerPointFollower
+  - hitObject
+  - gearLabel
+  - rGear
+  - gameManager
+  - aiMesh
+  - GarbageMission
+  - gas
+  - videoPlayer
+  - racePoints
+  - checkPoints
+  - raceEnterPoint
+  - speedoMeter
+  - house
+  - Modify
+  - groundPoint
+  - BigMapCurrentMissionPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BigMap
+  - MiniMap
+  - topboxcollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
