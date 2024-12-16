@@ -1,6 +1,6 @@
 # Mobile-Racing-Mission-Game
 
-A racing game developed by a team of three for Yeditepe University. It features six different modes: Police, Firefighter, Ambulance, Taxi, Garbage Truck, and Free Drive.
+ A racing game developed by a team of three for Yeditepe University. It features six different modes: Police, Firefighter, Ambulance, Taxi, Garbage Truck, and Free Drive.
 In role-playing missions, players earn money by completing various tasks assigned to them. This money can be used to upgrade vehicles or make purchases in Free Drive mode to advance their career.
 The map includes various racing areas where players can compete against AI opponents. Map is huge and inspired from GTA 5.
 
